@@ -4,7 +4,7 @@ colonycourier
 Sunday Open Game Dev [game 1]
 -----------------------------
 
-Every weekend I stream game development live. This code is from my stream and available for anyonee/everyone.
+Every weekend I stream game development live. This code is from my stream and available for anyone/everyone.
 
 The Channel is located here [http://www.twitch.tv/tiger_j/](http://www.twitch.tv/tiger_j/)
 
