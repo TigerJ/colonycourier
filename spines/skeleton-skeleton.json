@@ -1,0 +1,6 @@
+{
+bones: [
+	{ name: "root" },
+	{ name: "bone1", parent: "root", length: 70, rotation: 30 }
+]
+}

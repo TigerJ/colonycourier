@@ -1,0 +1,26 @@
+{
+bones: [
+	{ name: "root" },
+	{ name: "bone1", parent: "root", x: 24.14, y: 160.46 },
+	{ name: "bone2", parent: "bone1", length: 32.44, x: 0.25, rotation: -83.7 },
+	{ name: "bone3", parent: "bone2", length: 20.25, x: 32.44, y: 0.05, rotation: -54.67 },
+	{ name: "bone4", parent: "bone3", length: 21.58, x: 20.25, y: 0.08, rotation: -100.26 },
+	{ name: "bone5", parent: "bone1", x: 96.71, y: -0.52 },
+	{ name: "bone6", parent: "bone5", length: 27.65, rotation: -85.49 },
+	{ name: "bone7", parent: "bone6", length: 15.94, x: 27.65, y: 0.14, rotation: -28.51 },
+	{ name: "bone8", parent: "bone7", length: 18.46, x: 15.94, y: -0.02, rotation: -75.85 },
+	{ name: "bone9", parent: "bone5", x: -61.61, y: -142.21 },
+	{ name: "bone10", parent: "bone9", length: 26.04, rotation: 121.88 },
+	{ name: "bone11", parent: "bone10", length: 35.33, x: 26.04, y: 0.02, rotation: 113.58 },
+	{ name: "bone12", parent: "bone11", length: 16.94, x: 35.33, rotation: -60.1 },
+	{ name: "bone13", parent: "bone9", x: 43.93, y: 47.05 },
+	{ name: "bone14", parent: "bone13", length: 36.21, rotation: 176.39 },
+	{ name: "bone15", parent: "bone14", length: 29.85, x: 36.21, y: -0.05, rotation: -142.98 },
+	{ name: "bone16", parent: "bone15", length: 27.95, x: 29.2, y: 0.35, rotation: 102.86 },
+	{ name: "bone17", parent: "bone16", length: 35.75, x: 27.95, y: 0.12, rotation: 85.04 }
+],
+slots: [
+	{ name: "bosstemp", bone: "root" },
+	{ name: "bone4", bone: "bone4" }
+]
+}

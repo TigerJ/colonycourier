@@ -1,0 +1,162 @@
+{
+bones: {
+	root: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone17: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone1: {
+		rotate: [
+			{ time: 0, angle: 0, curve: "stepped" },
+			{ time: 0.5, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.5, x: 0, y: 0 }
+		]
+	},
+	bone2: {
+		rotate: [
+			{ time: 0, angle: 0 },
+			{ time: 0.1666, angle: -20.51 },
+			{ time: 0.5, angle: -68.89 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.1666, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.5, x: 0, y: 0 }
+		]
+	},
+	bone3: {
+		rotate: [
+			{ time: 0, angle: 0 },
+			{ time: 0.1666, angle: 33.03 },
+			{ time: 0.5, angle: 137.7 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.1666, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.5, x: 0, y: 0 }
+		]
+	},
+	bone4: {
+		rotate: [
+			{ time: 0, angle: 0 },
+			{ time: 0.1666, angle: 37.18 },
+			{ time: 0.5, angle: 56.3 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.1666, x: 0, y: 0, curve: "stepped" },
+			{ time: 0.5, x: 0, y: 0 }
+		]
+	},
+	bone5: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone6: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone7: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone8: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone9: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone10: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone11: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone12: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone13: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone14: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone15: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	},
+	bone16: {
+		rotate: [
+			{ time: 0, angle: 0 }
+		],
+		translate: [
+			{ time: 0, x: 0, y: 0 }
+		]
+	}
+}
+}
